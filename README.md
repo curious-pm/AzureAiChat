@@ -152,7 +152,7 @@ If you encounter issues:
 ## Screenshots
 
 1. **Application Interface:**  
-   ![Image](https://github.com/user-attachments/assets/7ae2d60a-c0cd-485b-94d4-74fae02e96b1)
+   ![Image](https://github.com/user-attachments/assets/a80c99a7-9a1a-4d8e-a5fd-f30a2d779efe)
 
 
 ---
