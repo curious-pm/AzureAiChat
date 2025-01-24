@@ -1,4 +1,5 @@
-[Visit our organization](https://curious.pm) to explore more projects.
+**[Join Idealabs Community](https://curios.pm) to connect, share, and learn with others!**
+
 
 # Azure OpenAI Chat
 
