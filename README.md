@@ -145,7 +145,7 @@ If you encounter issues:
 --- 
 
 ## Link to Hosted Version
-[View Live App](#) *(Insert deployment link here)*
+[View Live App](https://azureaichat.streamlit.app/)
 
 ---
 
