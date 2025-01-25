@@ -27,7 +27,7 @@ class AzureOpenAIChat:
 
 def main():
     st.set_page_config(page_title="Azure OpenAI Chat", page_icon="💬")
-    st.title("Azure OpenAI GPT-4o Chat")
+    st.title("Azure OpenAI Chat")
 
     # Initialize chat history in session state
     if "messages" not in st.session_state:
