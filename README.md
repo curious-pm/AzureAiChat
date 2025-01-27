@@ -22,7 +22,7 @@ The app allows users to interact with an AI chatbot powered by Azure OpenAI. Use
 Make sure Python is installed, then install the required libraries:
 
 ```bash
-pip install streamlit requests
+pip install streamlit requests openai 
 ```
 
 ### 2. Set Up API Credentials
